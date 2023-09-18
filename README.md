@@ -1,10 +1,8 @@
-# Finetune LLMs
-
-## Cost Analysis: Finetune vs Prompt Engineering
+# Finetune Cost Analysis: Finetune vs Prompt Engineering
 
 [CostAnalysis.ipynb](CostAnalysis.ipynb) provides a comprehensive mathematical analysis to compare the cost implications of two distinct approaches to model usage with [OpenAI Pricing](https://openai.com/pricing) on finetuning and prompt engineering.
 
-### Contents:
+## Contents:
 
 1. **Mathematical Model**:
    
@@ -34,6 +32,6 @@
    
    Processes and filters the calculated results to trim outliers and prepare the data for subsequent analysis or visualization.
 
-### Usage:
+## Usage:
 
 To run the notebook, ensure you have the necessary libraries installed and execute each cell in sequence. Adjust parameters as needed to suit different scenarios or datasets.

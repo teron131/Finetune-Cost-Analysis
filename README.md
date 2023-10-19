@@ -1,12 +1,12 @@
 # Finetune Cost Analysis: Finetune vs Prompt Engineering
 
-[CostAnalysis.ipynb](CostAnalysis.ipynb) provides a comprehensive mathematical analysis to compare the cost implications of two distinct approaches to model usage with [OpenAI Pricing](https://openai.com/pricing) on finetuning and prompt engineering.
+[CostAnalysis.ipynb](CostAnalysis.ipynb) provides a comprehensive mathematical analysis, utilizing Monte Carlo simulation to compare the cost implications of two distinct approaches to model usage with [OpenAI Pricing](https://openai.com/pricing) on finetuning and prompt engineering.
 
 ## Contents:
 
 1. **Mathematical Model**:
    
-   Introduces a mathematical framework to compare the costs associated with choosing the finetuning approach against the prompt engineering approach for a given operational period.
+   Introduces a mathematical framework, underpinned by Monte Carlo Simulation, to compare the costs associated with choosing the finetuning approach against the prompt engineering approach for a given operational period.
 
 2. **Finetuning**:
    
